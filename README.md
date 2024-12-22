@@ -27,3 +27,4 @@
 ### ⚡ Random Inspiring Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
