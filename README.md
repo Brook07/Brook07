@@ -25,6 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brook07&" alt="brook07" /></p>
 
 ### ⚡ Random Inspiring Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
+
