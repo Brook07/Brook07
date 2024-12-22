@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brook07&label=Profile%20views&color=0e75b6&style=flat" alt="brook07" /> </p>
 
-- 🔭 I’m currently learning **C++**
+- 🔭 I’m currently learning **GODOT ENGINE**
 
 - 👯 I 'm currently working on **Project TYPESCAPE-A TYPING GAME**
 
