@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=32cd32&width=435&lines=Hi👋,+I'm+Utsav+Adhikari!" alt="Typing Hi, I'm Utsav Adhikari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=32cd32&width=435&lines=Hello+World!+I'm+Utsav+Adhikari" alt="Typing Hello World, I'm Utsav Adhikari">
 </h1>
 
+<h3 align="center">
+  Exploring the World of Code | Building Solutions with Passion & Creativity | Forever Curious
+</h3>
 
-<h3 align="center">A Passionate Learner</h3>
 
 ![image](https://github.com/user-attachments/assets/2d58c44a-ced2-46ee-8fff-bafac0aa99ad)
 
