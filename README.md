@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi 👋, I'm Utsav Adhikari" alt="Typing Hello World, I'm Utsav Adhikari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&width=435&lines=Hi👋, I'm Utsav Adhikari" alt="Hi👋, I'm Utsav Adhikari">
 </h1>
 
 <h3 align="center">
