@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brook07&label=Profile%20views&color=0e75b6&style=flat" alt="brook07" /> </p>
 
-- 🔭 I’m currently learning **GODOT ENGINE**
+- 🔭 I’m currently learning **React Native**
 
-- 👯 I 'm currently working on **Project TYPESCAPE-A TYPING GAME**
+- 👯 I 'm currently working on **Connectify- A Social Networking App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brook07](https://github.com/Brook07)
 
