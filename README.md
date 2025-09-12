@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <"Hi👋, I'm Utsav Adhikari">
+    "Hi👋, I'm Utsav Adhikari"
 </h1>
 
 <h3 align="center">
