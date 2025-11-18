@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brook07&label=Profile%20views&color=0e75b6&style=flat" alt="brook07" /> </p>
 
-- 🔭 I’m currently learning **React and Python**
+- 🔭 I’m currently learning **MERN STACK**
 
 - 👯 I 'm currently working on **Mini Projects**
 
