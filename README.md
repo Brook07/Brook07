@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Exploring the World of Code | Building Solutions with Passion & Creativity | Forever Curious
+  Exploring the World of Code | Building Solutions with Passion & Creativity
 </h3>
 
 ![image](https://github.com/user-attachments/assets/2d58c44a-ced2-46ee-8fff-bafac0aa99ad)
