@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently learning **MERN STACK**
 
-- 👯 I 'm currently working on **Mini Projects**
+- 👯 I 'm currently working on **Semester Project And Mini Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brook07](https://github.com/Brook07)
 
