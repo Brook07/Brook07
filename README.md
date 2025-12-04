@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brook07](https://github.com/Brook07)
 
-- ⚡ Fun fact **⚡ Going With The Flow**
+- 🏀 Outside of work I enjoy basketball, fitness, traveling, and chess
 
 <h3 align="left">Connect with me:</h3>
 https://www.instagram.com/adk_utsav/
