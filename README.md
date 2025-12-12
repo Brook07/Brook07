@@ -15,7 +15,7 @@
 
 - 👯 I 'm currently working on **Semester Project And Mini Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Brook07?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/Brook07?tab=repositories
 
 - 🏀 Outside of work I enjoy basketball, fitness, traveling, and chess
 
