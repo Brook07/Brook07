@@ -1,9 +1,3 @@
-# Hi 👋, I'm Utsav Adhikari
-
-**Aspiring Full-Stack Software Developer | Computer Science Student**
-
----
-
 ## 👋 About Me
 
 I'm Utsav Adhikari, a full-stack software developer focused on **system design**, **backend architecture**, and building innovative, scalable applications.
