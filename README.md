@@ -2,9 +2,6 @@
 
 I'm Utsav Adhikari, a Computer Science undergraduate at **Kathmandu University** and an aspiring full-stack software developer focused on **system design**, **backend architecture**, and building innovative, scalable applications.
 
-**Outside Tech**  
-I'm passionate about 🏀 basketball & fitness, ♟️ chess, ⛰️ hiking, and ✈️ traveling. I also enjoy experimenting with ideas breaking things and rebuilding them better through semester projects and real world applications.
-
 > *"Crafting mind and body."*
 ---
 
