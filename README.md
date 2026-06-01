@@ -1,6 +1,8 @@
 ## 👋 About Me
 
-I'm Utsav Adhikari, a Computer Science undergraduate at **Kathmandu University** and an aspiring full-stack software developer focused on **system design**, **backend architecture**, and building innovative, scalable applications.
+I'm Utsav Adhikari, a Computer Science undergraduate at Kathmandu University and a MERN stack developer focused on system design, backend architecture, and scalable software solutions.
+
+Currently diving deep into Artificial Intelligence and Machine Learning, building hands-on AI/ML projects and exploring data-driven technologies alongside modern software development.
 
 > *"Crafting mind and body."*
 ---
