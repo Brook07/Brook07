@@ -58,16 +58,22 @@ Currently diving deep into Artificial Intelligence and Machine Learning, buildin
 <td valign="top" width="20%">
 
 **GameDev**
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
 </p>
-
+</td>
+<td valign="top" width="20%">
+  
+**Deployment**
+<p align="center">
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/railway/0B0D0E" alt="Railway" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" height="40"/>
+</p>
 </td>
 </tr>
 </table>
-
----
 
 ## Connect
 
