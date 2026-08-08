@@ -49,8 +49,10 @@ Currently diving deep into Artificial Intelligence and Machine Learning, buildin
 </table>
 
 ## Connect
-
 <p align="left">
+  <a href="https://utsavadhikari07.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.instagram.com/adk_utsav/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
