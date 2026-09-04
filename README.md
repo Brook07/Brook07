@@ -1,4 +1,4 @@
-## 👋 About Me
+# 👋 About Me
 I'm Utsav Adhikari, a Computer Science undergraduate at Kathmandu University and a full stack web developer focused on backend architecture, and scalable software solutions.
 Currently diving deep into Artificial Intelligence and Machine Learning, building hands-on AI/ML projects and exploring data-driven technologies alongside modern software development.
 
@@ -50,10 +50,17 @@ Currently diving deep into Artificial Intelligence and Machine Learning, buildin
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
+</p>
+
+---
+
+## 🗄 Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
 </p>
 
 ---
